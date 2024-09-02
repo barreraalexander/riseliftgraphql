@@ -4,5 +4,6 @@ Flask-GraphQL
 pydantic
 pydantic_settings
 python-dotenv
-flask_sqlalchemy
+SQLAlchemy
 pymysql
+alembic
